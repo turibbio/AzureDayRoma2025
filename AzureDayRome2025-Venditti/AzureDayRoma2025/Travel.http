@@ -1,0 +1,5 @@
+POST http://localhost:7219/api/TravelOrchestration_HttpStart
+{
+  Voglio organizzare una vacanza di weekend a roma partendo da milano, ho intezione di partire il 20/06/2025
+}
+

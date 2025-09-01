@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureDayRoma2025": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7219",
+      "launchBrowser": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build /Users/turibbio/Projects/azureday2025/06-orchestration/01-concurrent/SemanticKernelOrchestration.csproj",
+			"file": "/Users/turibbio/Projects/azureday2025/06-orchestration/01-concurrent/SemanticKernelOrchestration.csproj",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build /Users/turibbio/Projects/azureday2025/06-orchestration/01-concurrent/SemanticKernelOrchestration.csproj"
+		}
+	]
+}
